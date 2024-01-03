@@ -21,5 +21,5 @@ nokia.Ligar("Thais");
 nokia.InstalarAplicativo("Instagram");
 nokia.InstalarAplicativo("Discord");
 iphone.ReceberLigacao();
-nokia.InstalarAplicativo("Destiny Companion");
+nokia.InstalarAplicativo("Youtube");
 nokia.DesligarAparelho();
